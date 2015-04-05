@@ -1,0 +1,11 @@
+#squares-ville {
+  width: 600px;
+}
+
+.square {
+  margin: 10px;
+  background-color: blue;
+  height: 60px;
+  width: 60px;
+  float: left;
+}
